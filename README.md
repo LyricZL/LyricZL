@@ -7,7 +7,7 @@
 
 # Ich Liebe dich~~~~~~~~ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif" alt="Coder GIF" width="500">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif" alt="Coder GIF" width="300">
 </p>
 <p align="center">
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
 </p>
 
 ---
