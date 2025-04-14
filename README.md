@@ -2,6 +2,9 @@
 
 ## LyricZL
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Li+Z%2C+PharmD;Welcome+to+my+README" alt="Typing SVG" /></a>    
+</h1>
+
 # Ich Liebe dich! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <p align="center">
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
