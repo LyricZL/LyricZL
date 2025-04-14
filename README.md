@@ -15,7 +15,8 @@
 - 📖 I am currently learning AI and blockchain 
 - 💬 Talk to me about blockchain!
 - 👯 We can connect to play some games♟
-- ⚡ Fun fact: Je connais un peu le français
+- ⚡ Fun fact: Ich lerne gerade Deutsch, Je connais un peu le français,  한국어 좀 알아요.
+
 - 🧑‍💻 Tech I work on and learning :
 
 <p align="center">
