@@ -11,7 +11,7 @@
 - 🏦 I'm a Chinese PhD student in England 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I want to improve my skills and make new friends
-- 💻 I use daily: **.c++**, **.c**, **.py**,  **.c#**     
+- 💻 I use daily: **.py**, **.c++**, **.c**, **.c#**     
 - 📖 I am currently learning AI and blockchain 
 - 💬 Talk to me about blockchain!
 - 👯 We can connect to play some games♟
