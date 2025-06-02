@@ -2,17 +2,17 @@
 
 ## LyricZL
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=你好+Hello+안녕하세요;I+am+Liii;Welcome+to+my+Github!" alt="Typing SVG" /></a>                         
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=你好+Hello+안녕하세요;I+am+L;Welcome+to+my+Github!" alt="Typing SVG" /></a>                         
 </h1>
 
-# Ich Liebe Dich~~~~~~~~ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+# Ich Liebe Dich~~~~~~~~ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />    
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a Chinese PhD student in England 
+- 🏦 I'm a North Korean born in USA but now live in South Korea
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I want to improve my skills and make new friends
+- 📝 I want to improve my skills and make fucking money
 - 💻 I use daily: **.py**, **.c++**, **.c**, **.c#**     
-- 📖 I am currently learning AI and blockchain 
+- 📖 I am currently learning AI 
 - 💬 Talk to me about blockchain!
 - 👯 We can connect to play some games♟
 - ⚡ Fun fact: Ich lerne gerade Deutsch, Je connais un peu le français,  한국어 좀 알아요.
